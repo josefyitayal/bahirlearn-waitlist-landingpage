@@ -6,7 +6,7 @@ export function BeforeAfter() {
         <div className="flex flex-col items-center gap-5 px-10">
             <div className="w-3/4 sm:w-[90%] flex flex-col items-center gap-3">
                 <h1 className="font-bold text-center text-3xl">Before BahirLearn vs. After BahirLearn</h1>
-                <p className="text-center">Managing a membership business shouldn't be this hard—let's get it under control.</p>
+                {/* <p className="text-center">Managing a membership business shouldn't be this hard—let's get it under control.</p> */}
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 w-full">
                 {/* Before Section */}

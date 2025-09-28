@@ -24,7 +24,7 @@ export function Feature1() {
     return (
         <div className="w-full flex flex-col items-center gap-8 px-10">
             <AnimatedContainer className={"w-full flex items-center justify-center"}>
-                <h2 className="text-4xl font-bold text-center w-3/4 sm:w-2/4">Everything you need to start teaching online</h2>
+                <h2 className="text-4xl font-bold text-center w-3/4 sm:w-2/4">Everything you need to start teaching and make money online</h2>
             </AnimatedContainer>
             <div className="">
                 <AnimatedContainer delay={0.4} className={"h-fit grid grid-cols-1 sm:grid-cols-3 gap-5"}>

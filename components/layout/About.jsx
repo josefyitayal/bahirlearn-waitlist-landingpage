@@ -57,7 +57,7 @@ export function About() {
 
                         {inView && (
                             <TextGenerateEffect
-                                words="BahirLearn is more than just a platform—it’s a movement to empower Ethiopian knowledge-sharers.
+                                words="BahirLearn is more than just a platform it’s a movement to empower Ethiopian knowledge-sharers.
 From teachers and professionals to creators and entrepreneurs, BahirLearn makes it possible to earn from your expertise and inspire the next generation of learners."
                                 duration={0.6}
                                 staggerDelay={0.15}

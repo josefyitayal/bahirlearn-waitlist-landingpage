@@ -10,9 +10,9 @@ export default function HeroSection() {
         <div className="relative flex flex-col gap-5">
             <HeroContent />
             <div className="sm:px-10">
-                <AspectRatio ratio={16 / 9} className="sm:-mt-[10vh] p-1.5 border border-gray-300 rounded-md">
-                    <Image src={"/Desktop - 1.png"} alt="screenshot" width={800} height={800} className="object-cover w-full h-full rounded-md overflow-hidden" />
-                </AspectRatio>
+                <div className="sm:-mt-[10vh] p-1.5 border border-gray-400 rounded-md">
+                    <Image src={"/real dashboard screenshot.svg"} alt="screenshot" width={800} height={800} className="object-cover w-full h-full rounded-md overflow-hidden border border-gray-300" />
+                </div>
             </div>
         </div>
     )
@@ -35,7 +35,7 @@ const HeroContent = () => {
                     <CommingSoonBanner />
                     <DynamicHeader />
                     <p className="text-center text-xl">
-                        Create and sell online courses with your own branded website. Built for Ethiopian educators, trainers, and creators—with Telebirr payments included.
+                        Create and sell online courses with your own branded website. Built for Ethiopian educators, trainers, and creators with Telebirr payments included.
                     </p>
                     <WaitlistInline />
                 </div>

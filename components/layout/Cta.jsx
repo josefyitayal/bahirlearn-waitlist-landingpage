@@ -25,7 +25,7 @@ export function Cta() {
                 {/* Right Content (Image) */}
                 <div className="flex-1 mt-10 md:mt-0 md:ml-8 top-28 left-10 relative w-full max-w-md">
                     <Image
-                        src="/screenshot diagonal.svg" // replace with your svg path
+                        src="/real dashboard diagonal.svg" // replace with your svg path
                         alt="BahirLearn dashboard preview"
                         width={500}
                         height={300}

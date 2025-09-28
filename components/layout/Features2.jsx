@@ -8,17 +8,17 @@ const features = [
     {
         title: 'Flexible Content',
         icon: Library,
-        description: 'Add lessons in text, video embeds, and interactive quizzes—all in one place.',
+        description: 'Add lessons in text, video embeds, and interactive quizzes all in one place.',
     },
     {
         title: 'Analytics Dashboard',
         icon: ChartColumn,
-        description: 'Track your students, revenue, and engagement with clear insights.”',
+        description: 'Track your students, revenue, and engagement with clear insights.',
     },
     {
         title: 'Seamless Payments',
         icon: HandCoins,
-        description: 'Accept Telebirr payments directly—no need for complicated integrations.',
+        description: 'Accept Telebirr payments directly no need for complicated integrations.',
     },
     {
         title: 'Beautiful Templates',
@@ -44,7 +44,7 @@ export function Features2() {
                     <h2 className="text-3xl font-bold tracking-wide text-balance md:text-4xl lg:text-5xl xl:font-extrabold">
                         Why educators choose BahirLearn
                     </h2>
-                    <p className="text-muted-foreground mt-4 text-sm tracking-wide text-balance md:text-base">Everything you need to teach, earn, and grow—built into one platform.</p>
+                    <p className="text-muted-foreground mt-4 text-sm tracking-wide text-balance md:text-base">Everything you need to teach, earn, and grow built into one platform.</p>
                 </AnimatedContainer>
 
                 <AnimatedContainer
