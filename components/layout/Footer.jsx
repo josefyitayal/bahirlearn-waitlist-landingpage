@@ -10,9 +10,9 @@ export function Footer() {
         <div className="flex flex-col items-center gap-6">
             <div className="w-full flex items-center justify-between">
                 <Image src={"logo with text.svg"} alt="logo with text" width={50} height={50} className="h-[30px] w-auto" />
-                <Link href={"https:t.me/bahirLearn"} className="">
+                <a target="_blank" rel="noopener noreferrer" href="https://t.me/bahirlearn" className="">
                     <Image src={"telegram.svg"} alt="telegram" width={50} height={500} className="w-8 h-8" />
-                </Link>
+                </a>
             </div>
             <Separator className={"w-full bg-zinc-400 text-zinc-400"} />
             <div className="w-full flex items-center justify-between">
